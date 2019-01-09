@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ally
+comment1.params=
+comment1.target=void\ deselectMyself()
+comment2.params=
+comment2.target=void\ selectMyself()
+comment3.params=
+comment3.target=void\ clickCheck()
+comment4.params=
+comment4.target=void\ moveTo()
+comment5.params=type
+comment5.target=void\ checkAlive(java.lang.String)
+comment6.params=x\ y
+comment6.target=void\ changeMoveCoords(int,\ int)
+comment7.params=amount
+comment7.target=void\ damageMe(int)
+numComments=8

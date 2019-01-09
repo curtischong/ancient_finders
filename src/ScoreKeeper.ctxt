@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScoreKeeper
+comment1.params=
+comment1.target=ScoreKeeper()
+comment2.params=allyGold\ enemyGold
+comment2.target=void\ setScore(int,\ int)
+numComments=3

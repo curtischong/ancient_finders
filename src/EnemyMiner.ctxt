@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyMiner
+comment1.params=
+comment1.target=EnemyMiner()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ isTargetted()
+comment4.params=
+comment4.target=boolean\ returnTargeted()
+comment5.params=
+comment5.target=void\ findNearestGold()
+numComments=6
